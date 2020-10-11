@@ -1,0 +1,14 @@
+{
+  "name": "web-push-notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Khayrul",
+  "license": "ISC",
+  "dependencies": {
+    "web-push": "^3.4.4"
+  }
+}
